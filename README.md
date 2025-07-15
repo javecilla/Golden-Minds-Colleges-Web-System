@@ -22,7 +22,7 @@ Golden Minds Colleges lacked a centralized, user-friendly online presence, leavi
 
 ## Technical Challenges & Solutions  
 - **Frontend Reactivity**: Integrated Vue.js with Laravel to enable dynamic updates without full page reloads, enhancing user interaction.  
-- **Database Scalability**: Designed PostgreSQL schemas with efficient indexing to handle growing content and user traffic.
+- **Database Scalability**: Designed MySQL schemas with efficient indexing to handle growing content and user traffic.
 
 ## Impact  
 - Reduced student inquiries by 35% by centralizing information online.  
@@ -32,10 +32,10 @@ Golden Minds Colleges lacked a centralized, user-friendly online presence, leavi
 ## Architecture  
 - **Backend**: Laravel for robust API endpoints, content management, and authentication.  
 - **Frontend**: Vue.js for reactive components paired with Bootstrap for styling.  
-- **Database**: PostgreSQL with normalized tables for scalable data storage.  
+- **Database**: MySQL with normalized tables for scalable data storage.  
 - **Deployment**: Hosted on HostGator with Cloudflare for security and CDN performance.
 
-Building this website sharpened my skills in full-stack development. I gained proficiency in integrating Vue.js with Laravel for a smooth, reactive frontend, reducing average page load times by 25% through optimization techniques like lazy loading. I also improved my database design skills with PostgreSQL, ensuring scalability for future growth, and embraced version control best practices using Git for efficient solo project management.
+Building this website sharpened my skills in full-stack development. I gained proficiency in integrating Vue.js with Laravel for a smooth, reactive frontend, reducing average page load times by 25% through optimization techniques like lazy loading. I also improved my database design skills with MySQL, ensuring scalability for future growth, and embraced version control best practices using Git for efficient solo project management.
 
 <h3 align="left">Full Tech Stack Used:</h3>
 <p align="left">
@@ -57,7 +57,7 @@ Building this website sharpened my skills in full-stack development. I gained pr
     <kbd>Database</kbd>
     <br>
     <br>
-    <img width="30px" title="postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" /> 
+    <img width="30px" title="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /> 
   </kbd>
 </p>
 
